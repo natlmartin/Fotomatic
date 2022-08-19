@@ -65,14 +65,11 @@ header .logo {
 
 header nav ul {
   display: flex;
+  list-style-type: none;
 }
 
 nav li {
   padding-left: 3.5rem;
-}
-
-nav li::marker{
-  display: none;
 }
 
 nav a {
