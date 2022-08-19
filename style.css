@@ -14,12 +14,6 @@ html {
   text-align: center;
 }
 
-.button {
-  border-radius: 4px;
-  background-color: #4a4a4a;
-  color: white;
-}
-
 .image-container {
   overflow: hidden;
 }
@@ -183,8 +177,8 @@ button {
 }
 
 button:hover {
-  background-color: grey; 
-  Color: white; 
+  background-color: white; 
+  Color: grey; 
 }
   
 
